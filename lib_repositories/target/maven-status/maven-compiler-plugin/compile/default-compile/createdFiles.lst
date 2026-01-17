@@ -1,0 +1,12 @@
+lib_repositories\Implementations\AuditsRepository.class
+lib_repositories\Interfaces\IConnection.class
+lib_repositories\Interfaces\IAuditsRepository.class
+lib_repositories\Interfaces\IUsersRepository.class
+lib_repositories\Interfaces\IProductsRepository.class
+lib_repositories\Implementations\ProductsRepository.class
+lib_repositories\Implementations\ApisRepository.class
+lib_repositories\Implementations\UsersRepository.class
+lib_repositories\Interfaces\IApisRepository.class
+lib_repositories\Implementations\TypesRepository.class
+lib_repositories\Interfaces\ITypesRepository.class
+lib_repositories\Implementations\Connection.class

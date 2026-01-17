@@ -1,0 +1,4 @@
+ssb_services\Core\Configuration.class
+com\example\Ssb_servicesApplication.class
+ssb_services\Implementations\ProductsService.class
+ssb_services\Implementations\TypesService.class

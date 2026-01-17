@@ -1,0 +1,5 @@
+com\example\ut_presentation\Ut_presentation.class
+ut_presentation\Core\EntitiesCore.class
+ut_presentation\Repositories\AuditsTest.class
+ut_presentation\Repositories\UsersTest.class
+ut_presentation\Repositories\ProductsTest.class

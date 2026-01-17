@@ -1,0 +1,6 @@
+lib_domain\Entities\Users.class
+lib_domain\Entities\Products.class
+lib_domain\Core\Convertions.class
+lib_domain\Entities\Audits.class
+lib_domain\Core\JsonHelper.class
+lib_domain\Entities\Types.class
